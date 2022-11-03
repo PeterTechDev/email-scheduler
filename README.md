@@ -1,2 +1,2 @@
 ﻿# email-scheduld
- projetc to schedule email send by email trough java
+Project to create a microservice that sends an email on a scheduled date time
